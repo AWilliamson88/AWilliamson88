@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Williamson</h1>
 <h3 align="center">A passionate new developer from Perth</h3>
 
-<!-- - 🔭 I’m currently working on ** -->
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning **Design Patterns**
 - 📫 How to reach me: AndrewSWilliamson@hotmail.com
-
 
 <h3 align="left">I Have Experience With:</h3>
 <p align="left"> 
@@ -38,16 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awilliamson88&show_icons=true&locale=en" alt="awilliamson88" /></p>
 
 
-<!--
-**AWilliamson88/AWilliamson88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
+<!-- Kept for latter conveinience
+- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 - ⚡ Fun fact: ...
 -->
