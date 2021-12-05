@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Andrew Williamson</h1>
 <h3 align="center">A passionate new developer from Perth</h3>
 
-- 😄 Pronouns: He/Him
+<p align="center">
+- 😄 Pronouns: **He/Him**
 - 🌱 I’m currently learning **Design Patterns & Web Development**
 - 📫 How to reach me: AndrewSWilliamson@hotmail.com
-
+  
+<a href="https://linkedin.com/in/awilliamson88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="awilliamson88" height="30" width="40" /></a>
+</p>
+  
 <h3 align="left">I Have Experience With:</h3>
 <p align="left"> 
 <!--  C#  -->
