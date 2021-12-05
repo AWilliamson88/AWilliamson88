@@ -2,7 +2,7 @@
 <h3 align="center">A passionate new developer from Perth</h3>
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **Design Patterns & Web Development**
 - 📫 How to reach me: AndrewSWilliamson@hotmail.com
 
 <h3 align="left">I Have Experience With:</h3>
