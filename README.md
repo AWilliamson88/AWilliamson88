@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Williamson</h1>
 <h3 align="center">A passionate new developer from Perth</h3>
 
-<p align="center">
 - 😄 Pronouns: **He/Him**
 - 🌱 I’m currently learning **Design Patterns & Web Development**
 - 📫 How to reach me: AndrewSWilliamson@hotmail.com
-  
-<a href="https://linkedin.com/in/awilliamson88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="awilliamson88" height="30" width="40" /></a>
-</p>
   
 <h3 align="left">I Have Experience With:</h3>
 <p align="left"> 
@@ -29,9 +25,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-
 </p>
+
+<h3 align="left">Connect With Me:</h3>
+<p>
+<!-- <a href=""><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" /></a> -->
+<a href="https://linkedin.com/in/awilliamson88" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="awilliamson88" /> </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awilliamson88&show_icons=true&locale=en" alt="awilliamson88" /> &nbsp; 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=awilliamson88&show_icons=true&locale=en" alt="awilliamson88" /></p>
