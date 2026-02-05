@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Williamson</h1>
-<h3 align="center">A passionate new developer from Perth</h3>
+<h3 align="center">A passionate developer from Perth</h3>
 
 - 😄 Pronouns: **He/Him**
 <!-- 🌱 I’m currently learning **Design Patterns & Web Development** -->
